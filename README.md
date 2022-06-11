@@ -23,7 +23,7 @@ Clone or download the zip file
  
  use http://localhost:8080/actuator/health to check the health
  
- use postman or similar tool to do the request (Calculate )
+ use postman or similar tool to do the request (Calculate ) use POST 
  ##  url
 localhost:8080/calculate
 
