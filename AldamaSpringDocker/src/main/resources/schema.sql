@@ -1,3 +1,4 @@
+
 CREATE TABLE PaymentSchedule (
     creditApplication   INTEGER      NOT NULL ,
     paymentNumber  INTEGER      NOT NULL ,
